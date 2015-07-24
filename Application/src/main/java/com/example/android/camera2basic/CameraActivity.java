@@ -20,7 +20,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 public class CameraActivity extends Activity {
-
+//ahoy!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
